@@ -1,1 +1,1 @@
-# neural_scaling_law
+This is the source code for wavefunctions used in the paper. 
